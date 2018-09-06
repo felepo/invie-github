@@ -1,2 +1,2 @@
 # invie-github by Fher
-Prubas para aprender Git y Github
+Pruebas para aprender y entender Git y Github
